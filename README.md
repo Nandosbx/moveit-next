@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-<img src="./.github/"/>
+<img src="./.github/moveit-mockup.png"/>
 </p>
 
 
@@ -20,7 +20,7 @@
 <h2>	📷  WEB</h2>
 <div>
 
-- [PICTURES](https://github.com/Nandosbx/Happy-App/tree/master/web "Frontend")
+- [PICTURES](https://github.com/Nandosbx/moveit-next/tree/master/web "Frontend")
 
 </div>
 
@@ -43,7 +43,7 @@ Move it is a project to help you to keep aware of the need to stop while working
 <h2>📚 Documentation</h2>
 
 🚧Under construction🚧.
-Access <a href="https://github.com/Nandosbx/Happy-App/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
+Access <a href="https://github.com/Nandosbx/moveit-next/blob/master/DOCUMENTATION.md">Documentation</a> and learn more.
 
 ------------
 
@@ -52,6 +52,8 @@ Access <a href="https://github.com/Nandosbx/Happy-App/blob/master/DOCUMENTATION.
 This project was developed with:
 
 - [React](https://reactjs.org/ "React")
+  
+- [Nextjs](https://nextjs.org/ "Nextjs")
 
 - [Typescript](https://www.typescriptlang.org/ "Typescript")
 
@@ -78,7 +80,7 @@ Happy was developed by <a href="https://github.com/diego3g">Diego Fernandes</a> 
 
 <h2>📃License</h2>
 
-This project is under MIT License. Access <a href="https://github.com/Nandosbx/Happy-App/blob/master/LICENSE.md">License</a> and learn more.
+This project is under MIT License. Access <a href="https://github.com/Nandosbx/moveit-next/blob/master/LICENSE.md">License</a> and learn more.
 
 ------------
 
