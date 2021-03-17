@@ -1,6 +1,6 @@
 <h1 align="center">Next Level Week 4.0</h1>
 <p align="center">
-<img src="./.github/logo-full.png"/>
+<img src="./.github/logo-full.svg"/>
 
 
 
