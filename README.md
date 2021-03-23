@@ -17,16 +17,6 @@
 
 ------------
 
-<h2>	📷  WEB</h2>
-<div>
-
-- [PICTURES](https://github.com/Nandosbx/moveit-next/tree/master/web "Frontend")
-
-</div>
-
-------------
-
-
 <h2>📖 About</h2>
 
 Move it is a project to help you to keep aware of the need to stop while working and exercise your eyes and body in order to mantain a good health condition.
